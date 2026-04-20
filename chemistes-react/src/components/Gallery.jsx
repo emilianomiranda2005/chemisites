@@ -1,6 +1,6 @@
 export default function Gallery() {
   const portfolio = [
-    { id: 1, title: "Tienda E-commerce Gourmet", category: "E-commerce" },
+    { id: 1, title: "Tienda de ropa en linea", category: "E-commerce" },
     { id: 2, title: "Consultoría Financiera Premium", category: "Servicios" },
     { id: 3, title: "Restaurant & Catering", category: "Gastronomía" },
     { id: 4, title: "Agencia de Marketing Digital", category: "Marketing" },
