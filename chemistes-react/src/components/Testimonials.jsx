@@ -8,8 +8,8 @@ export default function Testimonials() {
     },
     {
       text: "Increíble el resultado. La página que nos hicieron genera ventas mientras dormimos. Exacto lo que necesitaba.",
-      author: "María López",
-      role: "CEO, Consultoría Financiera",
+      author: "yosiel rodriguez",
+      role: "CEO, despacho de contadores",
       rating: 5,
     },
     {
