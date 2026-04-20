@@ -7,7 +7,7 @@ export default function CTA() {
             Está comprobado: Negocios con presencia digital crecen 3x más rápido
           </h2>
           <p className="cta-subtitle">
-            No esperes más. Tenemos solo 3 spots disponibles este mes.
+            No esperes más. Haz tu negocio destacar.
             <br />
             <strong>Agenda una llamada gratuita hoy mismo.</strong>
           </p>

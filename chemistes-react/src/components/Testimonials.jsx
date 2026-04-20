@@ -1,9 +1,9 @@
 export default function Testimonials() {
   const testimonials = [
     {
-      text: "Chemisites transformó nuestra presencia online. En 3 meses triplicamos nuestros leads. Son profesionales de verdad.",
-      author: "Carlos Mendez",
-      role: "Propietario, Tienda Gourmet",
+      text: "Chemisites transformó nuestra presencia online. En 3 meses triplicamos nuestros clientes nuevos. Son profesionales de verdad.",
+      author: "Paulina Quintero",
+      role: "Propietaria, tienda de maquillaje",
       rating: 5,
     },
     {
