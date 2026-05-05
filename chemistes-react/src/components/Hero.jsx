@@ -1,34 +1,25 @@
 export default function Hero() {
   return (
-    <section className="hero">
-      <div className="hero-container">
-        <div className="hero-content">
+    <section id="inicio" className="hero">
+      <div className="hero-content content-max-width">
+        <div className="hero-text">
           <h1 className="hero-title">
-            Consigue más clientes con una página que sí vende
+            Diseño Web & Marketing Digital para empresas que quieren <span className="highlight">crecer</span>
           </h1>
           <p className="hero-subtitle">
-            En Chemisites creamos sitios web que generan resultados reales. 
-            Diseño premium + estrategia = más ventas para tu negocio.
+            Creamos soluciones web personalizadas que generan resultados reales. Desde e-commerce hasta plataformas complejas.
           </p>
-          <div className="hero-cta">
-            <a 
-              href="https://wa.me/526644801684" 
-              target="_blank" 
-              rel="noopener noreferrer"
-              className="btn btn-primary"
-            >
-              Hablar por WhatsApp
+          <div className="hero-ctas">
+            <a href="https://wa.me/526644801684" target="_blank" rel="noopener noreferrer" className="btn btn-primary">
+              Comenzar Proyecto
             </a>
-            <p className="hero-cta-subtext">
-              Respuesta en menos de 5 minutos
-            </p>
+            <a href="#portafolio" className="btn btn-secondary">
+              Ver Trabajos
+            </a>
           </div>
         </div>
         <div className="hero-visual">
-          <div className="hero-placeholder">
-            <div className="gradient-box"></div>
-            <div className="accent-circle"></div>
-          </div>
+          <div className="hero-gradient-box"></div>
         </div>
       </div>
     </section>
