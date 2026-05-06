@@ -15,8 +15,8 @@ export default function Footer() {
             <a href="https://wa.me/526644801684" target="_blank" rel="noopener noreferrer" className="footer-link">
               WhatsApp: +52 664 480 1684
             </a>
-            <a href="mailto:info@chemisites.com" className="footer-link">
-              info@chemisites.com
+            <a href="mailto:emilianomiranda20056@gmail.com" className="footer-link">
+              emilianomiranda20056@gmail.com
             </a>
           </div>
 
